@@ -1,23 +1,22 @@
 const projects = [
 	{
-		title: 'GDLauncher',
-		technologies: ['Node', 'React', 'Redux', 'Electron'],
+		title: 'PF.GURU',
+		technologies: ['Webflo', 'JS', 'HTML', 'SCSS'],
 		description:
-			'GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience',
-		url: 'https://github.com/gorilla-devs/GDLauncher'
+			'These casinos use a "provably fair" system, which allows players to independently verify the fairness of each game outcome using a cryptographic hash function.',
+		url: 'https://pf.guru'
 	},
 	{
-		title: 'WiseMan Discord Bot',
+		title: 'TEST',
 		technologies: ['NodeJs', 'FireBase', 'MongoDb', 'golang'],
-		description:
-			'The wiseMan bot allows you to level up based on the time you spend in a vocal channel',
-		url: 'https://github.com/Ladvace/WiseMan-DiscordBot'
+		description: 'Lorem pipsum dawd haw dojaiwdojo aiwjdojoawd awdawdawdawdawd awd awd',
+		url: 'https://google.de'
 	},
 	{
-		title: 'Easy-react-carousel',
+		title: 'TEST',
 		technologies: ['React', 'NodeJs'],
-		description: 'A simple carousel made in reactjs',
-		url: 'https://github.com/Ladvace/easy-react-carousel'
+		description: 'Dd HAIWdh h AHWDHUAIUWdhuihUI DHiuAHIU DHIAUH IUd haiuhWIU D',
+		url: 'https://google.de'
 	}
 ];
 

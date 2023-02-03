@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Gianmarco Cavallo - Privacy policy</title>
+	<title>AIMinds - Privacy policy</title>
 </svelte:head>
 
 <div class="container">

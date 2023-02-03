@@ -2,7 +2,7 @@
 	"name": "gianmarco.xyz",
 	"version": "0.0.1",
 	"scripts": {
-		"dev": "vite dev",
+		"dev": "vite dev --host 0.0.0.0 --port 5173",
 		"build": "vite build",
 		"start": "vite start",
 		"lint": "prettier --check . && eslint .",
@@ -21,7 +21,7 @@
 		"svelte": "^3.53.1",
 		"svelte-icons": "^2.1.0",
 		"svelte-preprocess": "^4.10.7",
-		"vite": "^3.2.4"
+		"vite": "^4.0.0"
 	},
 	"type": "module"
 }

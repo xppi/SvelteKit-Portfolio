@@ -8,12 +8,12 @@ const routes = [
 		label: 'Projects'
 	},
 	{
-		href: '/about',
-		label: 'About'
+		href: '/service',
+		label: 'Service'
 	},
 	{
-		href: '/blog',
-		label: 'Blog'
+		href: '/about',
+		label: 'About'
 	},
 ];
 

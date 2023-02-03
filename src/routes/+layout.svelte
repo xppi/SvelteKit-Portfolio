@@ -13,7 +13,7 @@
 	import routes from '$lib/NavRoutes';
 
 	let copied = false;
-	let email = 'cavallogianmarco@gmail.com';
+	let email = 'philippeppert@outlook.com';
 	const cookieEnabled = false;
 	$: showCookieModal = false;
 
@@ -106,8 +106,8 @@
 <slot />
 
 <footer>
-	Created by <a class="me" href="/about">Ladvace</a> ❤️ with
-	<span class="svelte">Svelte</span>
+	Created by <a class="me" href="/about">xppi</a> with
+	<span class="svelte">svelte</span>
 </footer>
 
 <style>

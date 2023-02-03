@@ -7,13 +7,14 @@
 </script>
 
 <svelte:head>
-	<title>Gianmarco Cavallo - Main page</title>
+	<title>AIMinds - Werbeagentur Wipperfürth</title>
+	<meta name="description" content="dawddadawd" />
 </svelte:head>
 <main>
-	<h1>Hi!✋ <br /> I'm Gianmarco a Front-End Developer 💻 based in Italy</h1>
+	<h1>Hi!✋ <br /> Wir sind AIMinds, eine Werbeagnetur 💻 aus Deutschland</h1>
 	<div class="icons">
 		<div
-			on:click={() => {
+			on:click={() => {s
 				modalOpened.set(true);
 			}}
 		>

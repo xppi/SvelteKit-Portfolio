@@ -3,17 +3,23 @@
 </script>
 
 <svelte:head>
-	<title>Gianmarco Cavallo — About</title>
+	<title>AIMinds — Über Uns</title>
 </svelte:head>
 
 <div class="container">
 	<main>
-		<h1>About</h1>
+		<h1>Über Uns</h1>
 		<p>
-			I'm a Software developer with over 2 years of front-end development experience, experienced in
-			both enterprise and open-source software development. I'm based in Italy and currently working
-			as a freelancer and coding in Node.js, React.js (and other web technologies) and Go(lang), but
-			I tend to learn and use the best technology and approach to best solve the problem I'm facing.
+			Wir sind AIMinds, eine innovative Werbeagentur aus Wipperfürth. Als Full-Service-Anbieter
+			bieten wir alles, was Sie für eine erfolgreiche Online-Präsenz benötigen. Von der Erstellung
+			von Homepages über die Programmierung von Apps bis hin zur Optimierung von Bezahlprozessen und
+			dem Einsatz neuester Kassensysteme und Kryptowährungen - bei uns sind Sie in den besten
+			Händen. Unser Team aus erfahrenen Designern und Programmierern sorgt dafür, dass Ihr
+			Online-Auftritt modern, benutzerfreundlich und ansprechend gestaltet ist. Auch im Bereich
+			Grafikdesign und Druck bieten wir Ihnen ein breites Spektrum an Leistungen an. Eines unserer
+			besonderen Stärken ist das Thema SEO und Google Rankings. Wir sorgen dafür, dass Ihre Website
+			gut sichtbar ist und von Ihren Zielkunden gefunden wird. Vertrauen Sie auf unsere Expertise
+			und lassen Sie uns gemeinsam Ihr Online-Business auf die nächste Stufe bringen!
 		</p>
 		<h2>Skills</h2>
 		{#each Object.entries(skills) as [section, technologies]}
